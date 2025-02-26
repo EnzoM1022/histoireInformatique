@@ -1,0 +1,13 @@
+1)GIT c'est un logiciel et GITHUB c'est une plateforme WEB
+
+2)Un Repository est un espace de stockage et de gestion de code source pour un projet donné
+
+3)Les commits sont les éléments de base de la chronologie d'un projet GIT
+  Un push sert à télécharger le contenu d'un dépôt local vers un dépôt distant
+  Un pull est une commande Git qui permet de récupérer et fusionner les modifications d'un dépôt
+  distant vers votre poste local     
+
+4)Le fichier README.md dans un repository GitHub sert principalement à fournir des informations 
+  essentielles sur le projet
+
+5)Avec la commande: git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY       
