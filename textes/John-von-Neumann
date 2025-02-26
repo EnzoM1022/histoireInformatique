@@ -1,0 +1,40 @@
+
+John von Neumann
+
+Biographie
+
+John von Neumann, né le 28 décembre 1903 à Budapest et mort le 8 février 1957 à Washington, est un 
+mathématicien et physicien américano-hongrois.
+
+Il a apporté d'importantes contributions en mécanique quantique, en analyse fonctionnelle, en 
+théorie des ensembles, en informatique, en sciences économiques et dans beaucoup d'autres domaines 
+des mathématiques et de la physique.
+
+
+Contributions
+
+Architecture de von Neumann
+
+L'architecture de von Neumann est utilisée dans la quasi-totalité des ordinateurs modernes.
+
+Les ordinateurs construits avec l’architecture de von Neumann sont constitués de quatre composants :
+
+    L’unité arithmétique et logique (UAL) ou unité de traitement, qui effectue les opérations de 
+    base.
+    L’unité de contrôle, qui est chargée du séquençage des opérations.
+    La mémoire, qui contient à la fois les données et le programme qui indique à l’unité de contrôle 
+    quels calculs faire sur ces données.
+    La mémoire se divise en 2 parties :
+        La mémoire vive (programmes et données en cours de fonctionnement)
+        La mémoire de masse (programmes et données de base de la machine)
+    Les dispositifs d’entrées-sorties, qui permettent de communiquer avec le monde extérieur.
+
+EDVAC
+
+Electronic Discrete Variable Automatic Computer
+
+J. Presper Eckert, Grace Hopper et John William Mauchly sont les concepteurs de l'EDVAC, le premier 
+ordinateur conçu selon l'architecture de von Neumann.
+
+John von Neumann en fut le rapporteur en écrivant "First Draft of a Report on the EDVAC".
+

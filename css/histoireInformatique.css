@@ -1,0 +1,124 @@
+div#conteneur {
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: 300px auto 200px;
+    grid-template-rows: 55px auto 500px;
+    grid-template-areas:
+    "a a a"
+    "b c c"
+    "e c c"
+    "d d d";
+}
+
+div#li1 > ul {
+    display: none;
+   
+}
+
+div#li1:hover ul {
+    display: block;
+   
+}
+
+div#li2 > ul {
+    display: none;
+   
+}
+
+div#li2:hover ul {
+    display: block;
+   
+}
+
+div#li3 > ul {
+    display: none;
+   
+}
+
+div#li3:hover ul {
+    display: block;
+   
+}
+
+header {
+    text-align: center;
+    font-size: 2.5rem;
+   
+}
+
+div#header {
+    grid-area: a;
+}
+
+div#nav {
+    grid-area: b;
+}
+
+main {
+    grid-area: c;
+}
+
+footer {
+    padding: 10px 0px 10px 0px;
+    
+}
+
+div#footer {
+    grid-area: d;
+}
+
+div#aside {
+    grid-area: e;
+}
+
+div#aside img {
+    width: 100%; 
+}
+
+
+figure {
+    margin: 0px;
+    padding: 4px;
+    border: 1px dotted;
+    display: grid;
+}
+
+article {
+    padding: 25px 20px 0px 10px;
+    font-size: 20px;
+}
+
+h3 {
+    padding: 0px 0px 0px 10px;
+    font-size: 15px;
+}
+
+p {
+    padding: 0px 0px 0px 10px;
+}
+
+table {
+    border: 1px double;
+    padding: 0px 0px 0px 10px;
+}
+
+th {
+    border: 1px solid;
+    border-color: black;
+    text-align: center;
+    color: white;
+    background-color: lightgray;
+}
+
+td {
+    border: 1px solid;
+    text-align: left;
+}
+
+body {
+    background-color: aqua;
+    background-image: url(../images/imageFond.jpg);
+}
+
+
+

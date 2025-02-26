@@ -1,0 +1,31 @@
+Dennis Ritchie
+
+Biographie
+
+Dennis MacAlistair Ritchie, né le 9 septembre 1941 à Bronxville dans l'État de New York et mort 
+le 12 octobre 20111 à Berkeley Heights dans le New Jersey, est un des pionniers de l'informatique 
+moderne, inventeur du langage C et codéveloppeur de Unix.
+
+
+Contributions
+
+Le langage C
+
+C est un langage de programmation impératif généraliste, de bas niveau. Inventé au début des 
+années 1970 pour réécrire UNIX, C est devenu un des langages les plus utilisés, encore de 
+nos jours. De nombreux langages plus modernes comme C++, C#, Java et PHP ou Javascript 
+ont repris une syntaxe similaire au C et reprennent en partie sa logique. C offre au 
+développeur une marge de contrôle importante sur la machine (notamment sur la gestion de la 
+mémoire) et est de ce fait utilisé pour réaliser les « fondations » (compilateurs, interpréteurs…) 
+de ces langages plus modernes.
+
+
+UNIX
+
+UNIX est une famille de systèmes d'exploitation multitâche et multi-utilisateur dérivé du Unix 
+d'origine créé par AT&T, le développement de ce dernier ayant commencé dans les années 1970 au 
+centre de recherche de Bell Labs mené par Kenneth Thompson. Il repose sur un interpréteur ou 
+superviseur (le shell) et de nombreux petits utilitaires, accomplissant chacun une action 
+spécifique, commutables entre eux (mécanisme de « redirection ») et appelés depuis la ligne 
+de commande.
+

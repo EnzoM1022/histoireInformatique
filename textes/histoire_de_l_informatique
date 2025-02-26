@@ -1,0 +1,56 @@
+Histoire de l'informatique
+
+Histoire des machines
+
+Quel fut le premier ordinateur ?
+
+La question, ainsi posée, n’a pas de réponse unique, car les critères qui caractérisent un 
+“ordinateur” sont multiples.
+
+    Les circuits sont-ils électroniques (à base de tubes à vide, pour les premières machines) 
+	ou électromécaniques (à base de relais) ?
+    La machine est-elle programmable ou spécialisée pour un type d’application ?
+    Le programme est-il stocké sur un support externe ou dans la mémoire de l’ordinateur ?
+    La machine est-elle “Turing complète” ? Autrement dit, est-elle équivalente (aux limites 
+	physiques près) à une machine de Turing universelle, ou encore, en termes plus simples, 
+	peut-elle exécuter tout algorithme ?
+
+
+Selon ces divers critères, on peut ainsi dresser le “palmarès” suivant
+
+    Le premier calculateur électronique est l'ABC (Atanasoff-Berry Computer), conçu en 1937, 
+	opérationnel en 1941, mais c'est une machine spécialisée, a fortiori non 
+	Turing-complète. Le Model-1 de George Stibitz est dans la même catégorie.
+    Le premier calculateur Turing-complet est le Zuse Z3 (1941), mais c’est une machine 
+	électromécanique, à base de relais.
+    Le premier calculateur électronique programmable est le Colossus (1944), mais il est à 
+	programme externe et n’est pas Turing-complet.
+    Le premier calculateur électronique Turing-complet est l’ENIAC (1946), mais il est à 
+	programme externe.
+    Le premier calculateur électronique Turing complet et à programme enregistré est l’EDSAC (1949).
+	Il précède de peu le Manchester Mark-1. En fait, un programme enregistré avait été exécuté 
+	quelques mois auparavant sur le Baby, maquette de validation du Mark-1 mais qui n’était 
+	pas un calculateur complet.
+    Le premier ordinateur commercial produit en série est le Ferranti Mark-1 (1951), dérivé du Manchester 
+	Mark-1. Il précède de peu l’UNIVAC-1 de Remington Rand, descendant de l’ENIAC via l’EDVAC. 
+	Mais deux ordinateurs construits en exemplaire unique, le BINAC (1949) et le Zuse Z4 (1950) 
+	avaient auparavant été livrés commercialement.
+
+ENIAC
+
+L'ENIAC (Electronic Numerical Integrator And Computer) est en 1945 le premier ordinateur entièrement 
+électronique construit pour être Turing-complet. Il peut être reprogrammé pour résoudre, en principe, 
+tous les problèmes calculatoires.
+L'ENIAC utilise des tubes à vide.
+
+
+Les scientifiques liés à l'histoire de l'informatique
+
+Identités					Dates					Contributions
+Prénom		Nom		Pays		Naissance		Décès		Théorie				Systèmes
+John		von Neumann	États-Unis	28 décembre 1903	8 février 1957	Architecture des ordinateurs	EDVAC
+Alan		Turing		Angleterre	23 juin 1912		7 juin 1954	Les algorithmes			Machine de Turing, Bombe
+Dennis		Ritchie		États-Unis	9 septembre 1941	12 octobre 2011	Le langage C			UNIX
+Richard		Stallman	États-Unis	16 mars 1953				Licence publique GNU		Emacs, OS GNU, compilateur C GNU
+
+
